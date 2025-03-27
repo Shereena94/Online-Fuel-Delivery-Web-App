@@ -112,7 +112,7 @@ const Home = () => {
             </div>
           </div>
 
-          <div className="row align-items-center">
+          <div className="row align-items-center mt-5">
             <div className="col-lg-6 ">
               <img
                 className="img-fluid border rounded shadow "
@@ -163,7 +163,7 @@ const Home = () => {
       </div>
 
       <div>
-        <h2 className="text-center ">Our Offerings</h2>
+        <h2 className="text-center mt-5 ">Our Offerings</h2>
       </div>
 
       <marquee>
